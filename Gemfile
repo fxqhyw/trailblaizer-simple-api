@@ -6,7 +6,7 @@ ruby '2.6.3'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'pg', '~> 1.1.4'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 5.5'
 gem 'rails', '~> 5.2.2.1'
 
 gem 'bcrypt'
